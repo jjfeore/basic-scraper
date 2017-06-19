@@ -6,6 +6,8 @@ requires = [
     'html5lib',
     'requests',
     'bs4',
+    'pprint',
+    'geocoder',
 ]
 
 tests_require = [
